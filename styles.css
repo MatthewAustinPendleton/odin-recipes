@@ -1,0 +1,31 @@
+.header,
+.recipe-list {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header {
+    background-color: antiquewhite;
+}
+
+.recipe-list-container,
+.img-container,
+p, h2, ul, ol {
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.recipe-list {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+img {
+    align-self: center;
+    border-radius: 5%;
+    border-color: rgb(172, 211, 245);
+    border-style: solid;
+}
