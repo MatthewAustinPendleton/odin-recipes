@@ -58,6 +58,7 @@ img {
 
 .img-container {
     margin-bottom: -0.8em;
+    margin: 0 auto;
 }
 
 .list-of-ingredients {
@@ -67,4 +68,9 @@ img {
 
 li {
     margin: 0.5em;
+    font-size: 1.2em;
+}
+
+p {
+    font-size: 1.3em;
 }
