@@ -1,3 +1,5 @@
+
+
 .header,
 .recipe-list {
     text-align: center;
@@ -57,7 +59,7 @@ img {
 }
 
 .img-container {
-    margin-bottom: -0.8em;
+    margin-bottom: 1em;
     margin: 0 auto;
 }
 
@@ -73,4 +75,39 @@ li {
 
 p {
     font-size: 1.3em;
+}
+
+.recipe-list-container {
+    background-color: #eee;
+    width: 350px;
+    margin: 10px auto;
+    padding: 10px;
+    border: #978e8e;
+    box-shadow: 10px 10px 10px rgb(119, 119, 108);
+}
+
+.description {
+    background-color: rgb(74, 98, 119);
+    color:rgb(214, 229, 241);
+    padding: 10px;
+    border-radius: 40px;
+    margin-top: 10px
+}
+
+.ingredients-div {
+    background-color:rgb(74, 98, 119);
+    margin-top: -45px;
+    padding: 10px;
+    border-radius: 45px;
+    color:rgb(214, 229, 241);
+    font-size: 25px;
+}
+
+.steps-div {
+    background-color:rgb(74, 98, 119);
+    margin-top: 10px;
+    border-radius: 45px;
+    color:rgb(214, 229, 241);
+    font-size: 20px;
+    align-items: center;
 }
