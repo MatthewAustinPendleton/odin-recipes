@@ -1,0 +1,25 @@
+* {
+    background-color: slategrey;
+    color: white;
+    font-family: 'Brush Script MT', Arial, Helvetica, sans-serif;
+}
+
+#recipe-list {
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    padding-right: 450px;
+}
+
+ul {
+    list-style-type: none;
+}
